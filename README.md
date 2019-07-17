@@ -1,2 +1,4 @@
 # ensorFlow-Object-Detection-API
 Training Custom Object Detector So, up to now you should have done the following:  Installed TensorFlow, either CPU or GPU (See TensorFlow Installation) Installed TensorFlow Models (See TensorFlow Models Installation) Installed labelImg (See LabelImg Installation) Now that we have done all the above, we can start doing some cool stuff. Here we will see how you can train your own object detector, and since it is not as simple as it sounds, we will have a look at:  How to organise your workspace/training files How to prepare/annotate image datasets How to generate tf records from such datasets How to configure a simple training pipeline How to train a model and monitor it’s progress How to export the resulting model and use it to detect objects.
+
+![maxresdefault](https://user-images.githubusercontent.com/40062143/61365740-81e81500-a888-11e9-8f83-d14f0481025f.jpg)
